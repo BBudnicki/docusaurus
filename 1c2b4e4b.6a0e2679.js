@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{63:function(a){a.exports=JSON.parse('{"allTagsPath":"/docusaurus/blog/tags","slug":"data-quality","name":"data quality","count":1,"permalink":"/docusaurus/blog/tags/data-quality"}')}}]);

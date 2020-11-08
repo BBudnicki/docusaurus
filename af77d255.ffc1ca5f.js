@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{77:function(o){o.exports=JSON.parse('{"allTagsPath":"/docusaurus/blog/tags","slug":"philosophy","name":"philosophy","count":1,"permalink":"/docusaurus/blog/tags/philosophy"}')}}]);
