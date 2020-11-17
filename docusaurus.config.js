@@ -1,12 +1,12 @@
 module.exports = {
   title: 'PPSR Core',
   tagline: 'A Data Standard for Public Participation in Scientific Research (Citizen Science)',
-  url: 'https://citizen-science-association.github.io',
-  baseUrl: '/ppsr-core/',
+  url: 'https://core.budnicki.net',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/csafavicon.png',
-  organizationName: 'citizen-science-association', // Usually your GitHub org/user name.
-  projectName: 'ppsr-core', // Usually your repo name.
+  organizationName: 'bbudnicki', // Usually your GitHub org/user name.
+  projectName: 'docusaurus', // Usually your repo name.
   plugins: ['docusaurus-plugin-sass'],
   themeConfig: {
     navbar: {
